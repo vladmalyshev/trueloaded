@@ -1,0 +1,4 @@
+<?php
+
+define('MODULE_PAYMENT_PXPAY_TEXT_TITLE', 'pxPay');
+define('MODULE_PAYMENT_PXPAY_TEXT_DESCRIPTION', 'pxPay');

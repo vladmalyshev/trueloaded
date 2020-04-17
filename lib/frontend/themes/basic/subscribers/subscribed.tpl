@@ -1,0 +1,1 @@
+{\frontend\design\Block::widget(['name' => 'subscribed', 'params' => ['type' => 'subscribe', 'params' => []]])}
